@@ -9,4 +9,4 @@ You may see the following message if you already have libraries like okapilib in
 
     Some required files for uvuvlib@0.1.0 already exist in the project. Overwrite the existing files? [y/n]
 
-Next
+[Next](chassis.md)
